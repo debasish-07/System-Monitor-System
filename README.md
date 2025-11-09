@@ -26,7 +26,7 @@ How to Run
 sudo apt update && sudo apt install build-essential -y
 2.Clone this repository
 
-git clone (https://github.com/debasish-07/System-Monitor-System/edit/main/README.md)
+git clone [(https://github.com/debasish-07/System-Monitor-System.git)]
 cd system-monitor-tool
 3.Build the project
 
